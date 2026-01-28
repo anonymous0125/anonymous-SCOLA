@@ -1,10 +1,9 @@
 # Anonymous Code Repository-SCOLA
 
-This repository provides an **anonymized implementation** for the paper:
+This repository provides an **anonymized implementation** for the paper in ICML:
 
 > **SCOLA: Human-Inspired Schematic Cognition for Contrastive 
   Reinforcement Learning in Non-Stationary Environments**  
-> (Anonymous submission)
 
 ---
 
