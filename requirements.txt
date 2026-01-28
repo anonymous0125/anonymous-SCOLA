@@ -1,0 +1,9 @@
+torch>=2.0
+gymnasium
+numpy
+scikit-learn
+tqdm
+matplotlib
+pygame
+h5py
+transformers
